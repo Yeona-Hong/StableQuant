@@ -1,0 +1,15 @@
+pip install tensorboardX
+pip install torch==2.3.0 torchvision==0.18.0 torchaudio==2.3.0 --index-url https://download.pytorch.org/whl/cu121
+pip install bitarray
+pip install cffi
+pip install cython
+pip install hydra-core==1.0.7
+pip install packaging
+pip install regex
+pip install sacrebleu
+pip install scikit-learn
+pip install tqdm
+pip install antlr4-python3-runtime==4.8
+pip install omegaconf==2.0.5
+pip install fairseq
+pip install jiwer
